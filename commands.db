@@ -1,0 +1,6 @@
+/* Para ver toda a tabela
+-------------------------- */
+SELECT * FROM salary;
+/* Para ver apenas uma coluna da tabela
+---------------------------------------- */
+SELECT YearsExperience FROM salary;
